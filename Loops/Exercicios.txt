@@ -1,0 +1,69 @@
+1. Escreva um algoritmo que exiba 20 vezes a mensagem informando qual vez está sendo escrita: 
+“Esta é a mensagem 1”, “Esta é a mensagem 2” ... “Esta é a mensagem 20”
+2. Escreva um algoritmo que calcule o somatório dos números de um intervalo informado pelo 
+usuário.
+3. Leia o nome do usuário e escreva o nome dele na tela 10 vezes.
+4. Leia o nome de um usuário e um número N e escreva o nome dele na tela N vezes.
+5. Escreva um algoritmo que leia 10 números informados pelo usuário e calcule a soma desses 
+números
+6. Leia a idade de 20 pessoas e exiba a média das idades.
+7. Leia a idade de 20 pessoas e exiba quantas pessoas são maiores de idade.
+8. Leia o nome e a idade de 10 pessoas e exiba o nome da pessoa mais nova.
+9. Escreva um algoritmo que leia 20 números informados pelo usuário e exiba quantos números são 
+maiores do que 8
+10. Escreva um algoritmo que leia 20 números informados pelo usuário e exiba quantos números são 
+pares
+11. Faça um algoritmo que leia 20 números e, ao final, escreva quantos estão entre 0 e 100.
+12. Faça um algoritmo que leia 20 números e, ao final, escreva quantos estão entre 0 e
+a. 100, quantos estão entre 101 e 200 e quantos são maiores de 200.
+13. Escreva um algoritmo que leia uma sequência de números do usuário e realize a soma desses 
+números. Encerre a execução quando um número negativo for digitado
+14. Faça um algoritmo escreva a diversas vezes a pergunta “Olá tudo bem?” e leia a
+a. resposta do usuário enquanto ele responde não. Só encerre a execução quando a resposta 
+for igual a “Sim”.
+15. Desenvolva um algoritmo capaz de apresentar na tela o fatorial de um número inteiro informado 
+pelo usuário. 
+16. Escreva um algoritmo que simule o funcionamento de um caixa de supermercado. O
+a. seu algoritmo deve receber do a informação de quantos produtos o cliente comprou e, para 
+cada produto, deverá ler o seu preço. Ao final, deverá informar quanto o cliente deve pagar 
+pelas compras.
+17. Em um restaurante Self-Service, o preço do quilo custa R$ 23,59. Crie um algoritmo
+a. que, para cada cliente, leia o peso do prato e valor gasto com bebida e calcule o valor total 
+da conta que o cliente irá pagar [ valor da conta = bebida + (peso * 15) ]. Só encerre a 
+execução quando o peso do prato digitado for igual a 0 e o valor da bebida for também igual 
+a 0.
+18. Escreva um algoritmo que leia a quantidade de alunos em uma turma. Em seguida,
+a. para cada aluno, leia a informação de suas 2 notas, calcule a média e informe se o
+b. aluno está aprovado ou reprovado. O aluno está aprovado apenas se a sua média for maior 
+ou igual a 6.
+19. Desenvolver um algoritmo que leia a altura de 15 pessoas. Este programa deverá calcular e mostrar : 
+a. A menor altura do grupo; 
+b. A maior altura do grupo; 
+20. Uma loja de animais vende gatos e cachorros. Escreva um algoritmo que leia a quantidade de 
+animais da loja e, para cada animal, leia a informação da espécie do animal (se é gato ou 
+cachorro). Ao final, exiba a quantidade de animais que são gatos e a quantidade de animais que 
+são cachorros existentes na loja
+21. O restaurante da questão 17 realiza reservas de mesas através de ligações telefônicas e possui 50 
+mesas disponíveis para reserva. Dessas mesas, 25 são na área de fumantes e 25 na área de não 
+fumantes. Para cada ligação recebida, o restaurante deve verificar se a reserva é para a mesa na 
+área de fumantes ou de não fumantes e contabilizar a quantidade de mesas restantes disponíveis 
+em cada área. Construa um algoritmo que realize a reserva das mesas e encerre a execução 
+quando não houver mais mesas disponíveis (nem na área de fumantes, nem na área de não 
+fumantes).
+22. Um viajante decidiu se aventurar e percorrer toda a BR 101 de carro a partir do quilômetro 0 até 
+ultrapassar o quilômetro 4000, parando em várias cidades durante o
+a. percurso. Crie um algoritmo que, em cada cidade que o viajante parar, leia a
+b. informação da quilometragem percorrida e adicione ao valor da quilometragem total.
+c. Encerre o algoritmo quando o valor da quilometragem total percorrida for igual ou
+d. ultrapassar os 4000 km.
+23. Foi feita uma pesquisa de canal de TV em várias casas da cidade de João Câmara. Para cada 
+casa visitada, foi preenchida uma ficha contendo o número do canal (3, 5, 8, 11 ou 13) e o número 
+de pessoas que estavam assistindo o canal naquela casa. Faça um algoritmo que:
+a. Leia a informação da quantidade de casas participantes da pesquisa.
+b. Receba as informações coletadas em cada uma das casas participantes da
+c. pesquisa: a informação do canal que estava sendo assistido e a quantidade de
+d. pessoas que estava assistindo aquele canal na casa.
+e. Contabilize quantas pessoas estava assistindo cada canal (leve em conta a
+f. quantidade de pessoas que assistia cada canal em cada casa)
+g. Ao finalizar a leitura de todas as fichas, escreva o número do canal e sua
+h. respectiva porcentagem de audiência
